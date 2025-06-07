@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Phone Case Selection</title>
+</head>
+<body>
+  <h1 style="text-align: center;">Phone Case Selection</h1>
+
+  <table border="1" cellpadding="10" cellspacing="0" align="center">
+    <tr>
+      <th>Image</th>
+      <th>Name</th>
+      <th>Price</th>
+      <th>Select</th>
+    </tr>
+
+    <tr>
+      <td><img src="https://m.media-amazon.com/images/I/71d9ZWPGd5L._AC_UF1000,1000_QL80_.jpg" alt="Floral Pink" width="100"></td>
+      <td>Floral Pink Case</td>
+      <td>$9.99</td>
+      <td><input type="checkbox" name="case1"></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://m.media-amazon.com/images/I/71C8DztxD3L._AC_UF1000,1000_QL80_.jpg" alt="Galaxy Space" width="100"></td>
+      <td>Galaxy Space Case</td>
+      <td>$10.99</td>
+      <td><input type="checkbox" name="case2"></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://m.media-amazon.com/images/I/61cwywLZR-L._AC_UF1000,1000_QL80_.jpg" alt="Minimalist Black" width="100"></td>
+      <td>Minimalist Black Case</td>
+      <td>$8.99</td>
+      <td><input type="checkbox" name="case3"></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://m.media-amazon.com/images/I/81HeQ4UnVPL._AC_UF1000,1000_QL80_.jpg" alt="Cartoon Pop" width="100"></td>
+      <td>Cartoon Pop Case</td>
+      <td>$12.49</td>
+      <td><input type="checkbox" name="case4"></td>
+    </tr>
+
+    <tr>
+      <td><img src="https://m.media-amazon.com/images/I/81MHGZgHgXL._AC_UF1000,1000_QL80_.jpg" alt="Anime Edition" width="100"></td>
+      <td>Anime Edition Case</td>
+      <td>$11.99</td>
+      <td><input type="checkbox" name="case5"></td>
+    </tr>
+  </table>
+</body>
+</html>
